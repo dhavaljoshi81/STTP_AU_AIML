@@ -1,0 +1,7 @@
+https://pandas.pydata.org/docs/getting_started/tutorials.html
+
+https://numpy.org/
+
+https://scikit-learn.org/stable/
+
+https://matplotlib.org/
